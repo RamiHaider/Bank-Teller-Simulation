@@ -14,7 +14,9 @@ After completing this we are told to produce our own data-set and to see the eff
 
 ![](/Part%202%20-%20Creating%20my%20values.png)
 
-As you can see, this data-set is twice as busy as the first. The average time between customer in Que is 1.6, whereas the first was 3.2 minutes. But, this data-set has no relation to the first actually. Because, with this new data-set I will test the effects of 1 teller versus another. However, this principle of analyzes across data-sets is important to acknowledge.
+I wanted to produce a data-set that was the same as the first but perhaps changed around slightly. However, what I did want to do was to make it twice as busy. The results of the first data-set to the ones that I made are seen here. We see a higher frequency in mine, but the slope remains the same. Thus accomplishment achieved.
+
+![](/Part%202%20and%20Part%201%20comparison.png)
 
 Now, we simply let matlab calculate the time it takes the teller to go through each customer for 1 teller.
 
@@ -32,4 +34,4 @@ The question now remains: How many tellers should we place? That depends on what
 
 Here is the easy to read and understand comparison of the 1 teller vs 2 using EXCEL
 
-![](/Part%202%20and%20Part%201%20comparison.png)
+
