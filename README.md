@@ -40,3 +40,5 @@ Here is the easy to read and understand comparison of the 1 teller vs 2 using EX
 ![](/2-tellers.png)
 
 ![](Time-in-Que.png)
+
+Clearly the last graph demonstrates that we got quite lucky since we have reached optimality in our teller vs customer-in-que time. We see for the orange trajectory, that customers aren't immedietly being served, but they also aren't waiting too long either, so it's a nice balance between customer satisifaction and paying our tellers.
