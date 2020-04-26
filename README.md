@@ -35,3 +35,8 @@ The question now remains: How many tellers should we place? That depends on what
 Here is the easy to read and understand comparison of the 1 teller vs 2 using EXCEL
 
 
+![](/1-teller.png)
+
+![](/2-tellers.png)
+
+![](Time-in-Que.png)
